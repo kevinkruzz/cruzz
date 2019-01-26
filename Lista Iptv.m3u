@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="TV Aberta", SBT HD
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w172728312_b131000_sleng.m3u8
+https://evpp.mm.uol.com.br/ne10/ne10.smil/media_w138909077_b216000_sleng_127426.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="Tv Aberta", GLOBO HD
 https://sva-2.global.ssl.fastly.net//hls1/bobosp-7305.ts
@@ -15,5 +15,5 @@ https://sva.global.ssl.fastly.net//hls1/disney.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e3/Discovery_Channel_HD_2008.png/revision/latest?cb=20110408013741" group-title="Tv Fechada", DISCOVERY CHANNEL
 https://sva.global.ssl.fastly.net//hls1/discovery.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/celebridades-famosos/images/2/27/Eu_e_a_Patroa_e_as_Crian%C3%A7as.PNG/revision/latest?cb=20161114212545&path-prefix=pt-br" group-title="Serie", Eu a Patroa e as Crianças
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/celebridades-famosos/images/2/27/Eu_e_a_Patroa_e_as_Crian%C3%A7as.PNG/revision/latest?cb=20161114212545&path-prefix=pt-br" group-title="Serie", Eu a Patroa e as CrianÃ§as
 https://r2---sn-i5gqvoapox-8j2e.googlevideo.com/videoplayback?mm=31,29&mn=sn-i5gqvoapox-8j2e,sn-bg0ezn7e&key=yt6&signature=A586B4BC2043C2036C6A3FDD5FB3E1722D8C30B7.492FC39CA69F7095A475A6F9FF4D06A0238556DA&clen=84482853&mt=1548536655&mv=m&pl=24&ei=vstMXOmkKdLI8wKCi7KoDQ&ms=au,rdu&gcr=br&c=WEB_EMBEDDED_PLAYER&sparams=aitags,clen,dur,ei,gcr,gir,id,initcwndbps,ip,ipbits,itag,keepalive,lmt,mime,mm,mn,ms,mv,pl,requiressl,source,expire&gir=yes&txp=5533432&aitags=133,134,135,136,160,242,243,244,247,278&mime=video/webm&expire=1548558366&initcwndbps=313750&ipbits=0&itag=244&lmt=1542257622707553&fvip=2&requiressl=yes&ip=189.127.244.113&keepalive=yes&source=youtube&dur=1273.521&id=o-AJb938WruZpMNdBj0faq7HE2wKh6HFSp7hHeDleQ4ouE&alr=yes&cpn=8Ivv13JrLrIMOF7L&cver=20190124&range=59659989-60150308&rn=20&rbuf=19957
